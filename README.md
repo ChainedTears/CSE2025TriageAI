@@ -10,3 +10,5 @@ Arthur wrote parts of the JS that requires communication and logic with the APIs
 ---
 Rickey and Arush collaborated on parts of the JS that requires variables and HTML manipulation
 ---
+Arush contributed to the python script which allowed us to modify the PLTW endpoint beyond the scope of our actual application
+---
