@@ -12,3 +12,7 @@ Rickey and Arush collaborated on parts of the JS that requires variables and HTM
 ---
 Arush contributed to the python script which allowed us to modify the PLTW endpoint beyond the scope of our actual application
 ---
+# Arush's explanation:
+```
+Explanation here
+```
