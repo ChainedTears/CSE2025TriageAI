@@ -1,6 +1,6 @@
 # TriageAI - CSE 2025 Semester 1 Finals Project
 
-This is an emergency response system where users may report incidents where they would be sorted by order of urgency by an AI model, allowing emergency responders to act fast.
+This is an emergency response system where users may report incidents where they would be sorted by order of urgency by an AI model, allowing emergency responders to act fast. API Key is only a placeholder. Please replace with your own **free** Groq API Key
 
 ---
 
