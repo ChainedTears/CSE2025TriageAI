@@ -9,3 +9,4 @@ Ethan wrote the HTML and CSS.
 Arthur wrote parts of the JS that requires communication and logic with the APIs.
 ---
 Rickey and Arush collaborated on parts of the JS that requires variables and HTML manipulation
+---
